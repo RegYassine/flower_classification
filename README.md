@@ -1,5 +1,7 @@
 # flower_classification
 
+## Travail fait par Belkassa Said et moi même Reguigui Yassine
+
 Exercice en classe de Deep Learning :
 
 1- Choisir une compétition sur Kaggle
