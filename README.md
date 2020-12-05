@@ -43,6 +43,12 @@ Le CLR est un technique qui permet de trouver le meilleur Learning rate :
  
  ![Screenshot](learing_rate_finder_lr_plot.png)
 
-- Lookahead
+- Lookahead K steps forward, 1 step Back
 https://arxiv.org/pdf/1907.08610.pdf
-Lookahead improves the learning stability and lowers the variance of its inner optimizer with negligible computation and memory cost. 
+
+Le Lookahead est un optimizer pour le Stochastic Gradient Descente ( SGD ) dans notre cas qui permet d'améliorer la stabilité de l'apprentissage avec un cout en mémoire et de computation négligeables :
+
+1- On initialise nos poids comme d'habitude pour le SGD et on lui attribue la characteristique de "slow_weight" ou poids lourd
+
+2- 
+
