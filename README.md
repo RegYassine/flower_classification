@@ -26,4 +26,6 @@ Nous avons :
 - Dossier test contenant 819 images pour la submission de la compétition
 - Fichier cat_to_name.json avec comme clé le numéro du dossier/classe et comme valeur le nom de la classe/fleur
 
+## Astuces
 
+- Cyclic Learning Rate ( CLR )https://arxiv.org/abs/1506.01186
