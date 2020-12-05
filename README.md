@@ -43,3 +43,6 @@ Le CLR est un technique qui permet de trouver le meilleur Learning rate :
  
  ![Screenshot](learing_rate_finder_lr_plot.png)
 
+- Lookahead
+https://arxiv.org/pdf/1907.08610.pdf
+Lookahead improves the learning stability and lowers the variance of its inner optimizer with negligible computation and memory cost. 
