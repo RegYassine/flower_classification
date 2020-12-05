@@ -10,7 +10,7 @@ Exercice en classe de Deep Learning :
 
 3- Créer repo Github contenant :
   * Readme avec le contexte de la compétition, les données et les difficultés rencontrées
-  * Notebook commenté, expliqué
+  * Notebook commenté
   * Noter les "astuces"
   
   
