@@ -12,4 +12,18 @@ Exercice en classe de Deep Learning :
   * Readme avec le contexte de la compétition, les données et les difficultés rencontrées
   * Notebook commenté, expliqué
   * Noter les "astuces"
-https://www.kaggle.com/nachiket273/flower-classification-lookahead-radam
+  
+  
+Compétion choisie : https://www.kaggle.com/nachiket273/flower-classification-lookahead-radam
+
+## Données et contexte compétition
+
+Cette compétition a été créée par Udacity pour avoir un classement ( officieux ) du Udacity PyTorch FB Challenge.
+Nous avons un dataset consistant de 102 categories de fleurs differentes.
+Nous avons :
+- Dossier train contenant 102 dossiers pour chacune des classes de fleurs. Chaque dossier a entre 40 et 258 images
+- Dossier valid contenant 102 dossiers pour chacune des classes de fleurs
+- Dossier test contenant 819 images pour la submission de la compétition
+- Fichier cat_to_name.json avec comme clé le numéro du dossier/classe et comme valeur le nom de la classe/fleur
+
+
