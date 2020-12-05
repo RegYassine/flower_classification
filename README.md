@@ -52,9 +52,11 @@ Le Lookahead est un optimizer pour le Stochastic Gradient Descente ( SGD ) dans 
 
 2- On fait k steps ou epochs avec SGD en utilisant des "fast_weights" ou poids rapide
 
+ ![Screenshot](lookahead_2.PNG)
+
 3- On fait une interpolation linéaire de l'espace de paramètres des fast_weights 
 
- ![Screenshot](lookahead_2.PNG)
+ ![Screenshot](lookahead_4.PNG)
 
 4 - On repète autant de fois que l'on décide
 
