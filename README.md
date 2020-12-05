@@ -34,6 +34,7 @@ https://arxiv.org/abs/1506.01186
 ![Screenshot](clrexp.png)
 
 Le CLR est un technique qui permet de trouver le meilleur Learning rate :
+
  1- On définit le minimum ou base de notre Learning rate appelé : base_lr
  2- On définit le maximum de notre Learning rate appelé : max_lr
  3- On fait osciller le Learning Rate entre base_lr et max_lr jusqu'à ce que la loss explose
