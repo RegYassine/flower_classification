@@ -29,3 +29,4 @@ Nous avons :
 ## Astuces
 
 - Cyclic Learning Rate ( CLR )https://arxiv.org/abs/1506.01186
+![Screenshot](clrexp.png)
